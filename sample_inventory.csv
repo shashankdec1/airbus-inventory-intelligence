@@ -1,0 +1,201 @@
+Part_Number,Part_Name,Category,Current_Stock,Unit_Cost,Lead_Time_Days,Monthly_Demand
+A0001,Cockpit Display,Landing Gear,317,3427,18,50
+A0002,Wing Fastener,Engine,443,2030,16,67
+A0003,Landing Gear Bolt,Landing Gear,364,3974,19,88
+A0004,Hydraulic Actuator,Avionics,433,1689,12,22
+A0005,Landing Gear Bolt,Hydraulics,40,2164,21,5
+A0006,Radar Module,Engine,359,4444,29,76
+A0007,Fuel Control Valve,Fuel System,226,3753,18,99
+A0008,Navigation Unit,Electronics,494,4065,17,62
+A0009,Turbine Blade,Engine,336,4015,14,85
+A0010,Engine Filter,Fuel System,422,113,11,24
+A0011,Hydraulic Actuator,Avionics,10,877,28,91
+A0012,Pressure Sensor,Engine,86,3752,5,81
+A0013,Pressure Sensor,Fuel System,120,1202,26,29
+A0014,Cockpit Display,Hydraulics,262,269,26,28
+A0015,Fuel Control Valve,Engine,81,743,28,9
+A0016,Hydraulic Actuator,Hydraulics,178,2199,5,8
+A0017,Compressor Blade,Fuel System,147,369,24,40
+A0018,Cockpit Display,Engine,344,3932,26,92
+A0019,Fuel Control Valve,Electronics,477,4942,23,26
+A0020,Landing Gear Bolt,Engine,362,2282,10,6
+A0021,Fuel Control Valve,Electronics,307,3008,6,21
+A0022,Brake Assembly,Engine,375,3154,5,34
+A0023,Cockpit Display,Electronics,70,4254,16,29
+A0024,Fuel Control Valve,Landing Gear,354,1312,7,69
+A0025,Avionics Sensor,Landing Gear,494,119,25,10
+A0026,Brake Assembly,Hydraulics,217,4368,22,30
+A0027,Avionics Sensor,Engine,149,4873,20,26
+A0028,Avionics Sensor,Landing Gear,281,574,15,88
+A0029,Wing Fastener,Landing Gear,321,1379,17,73
+A0030,Navigation Unit,Hydraulics,264,3516,22,51
+A0031,Hydraulic Pump,Avionics,382,4956,17,46
+A0032,Brake Assembly,Avionics,187,1932,23,8
+A0033,Landing Gear Bolt,Avionics,37,2084,8,62
+A0034,Compressor Blade,Hydraulics,415,3676,15,25
+A0035,Landing Gear Bolt,Electronics,65,1049,5,32
+A0036,Cockpit Display,Electronics,59,1689,13,19
+A0037,Electrical Harness,Electronics,374,4269,21,52
+A0038,Fuel Control Valve,Engine,11,129,9,30
+A0039,Landing Gear Bolt,Hydraulics,243,1626,24,29
+A0040,Engine Filter,Landing Gear,485,1975,24,90
+A0041,Pressure Sensor,Fuel System,356,2563,8,46
+A0042,Cockpit Display,Hydraulics,277,1650,27,95
+A0043,Pressure Sensor,Hydraulics,103,1131,7,50
+A0044,Electrical Harness,Landing Gear,250,2593,29,90
+A0045,Hydraulic Actuator,Hydraulics,242,2857,21,54
+A0046,Wing Fastener,Electronics,21,4222,15,25
+A0047,Hydraulic Actuator,Avionics,300,1260,16,36
+A0048,Compressor Blade,Engine,200,1596,28,53
+A0049,Compressor Blade,Fuel System,175,1582,21,20
+A0050,Fuel Control Valve,Avionics,374,1757,15,100
+A0051,Avionics Sensor,Engine,388,1834,12,35
+A0052,Avionics Sensor,Fuel System,345,2118,8,59
+A0053,Navigation Unit,Landing Gear,198,2594,26,57
+A0054,Fuel Control Valve,Engine,221,899,27,97
+A0055,Landing Gear Bolt,Hydraulics,261,3406,14,8
+A0056,Turbine Blade,Fuel System,97,1098,20,6
+A0057,Compressor Blade,Hydraulics,449,616,12,100
+A0058,Avionics Sensor,Engine,134,4398,11,41
+A0059,Brake Assembly,Landing Gear,324,4895,29,86
+A0060,Electrical Harness,Electronics,83,3686,27,29
+A0061,Avionics Sensor,Hydraulics,247,3983,17,48
+A0062,Brake Assembly,Electronics,34,3804,24,40
+A0063,Cockpit Display,Hydraulics,309,4207,11,76
+A0064,Cockpit Display,Landing Gear,397,3124,30,17
+A0065,Landing Gear Bolt,Engine,231,90,29,73
+A0066,Hydraulic Actuator,Hydraulics,30,4866,12,53
+A0067,Hydraulic Pump,Landing Gear,364,4658,25,85
+A0068,Wing Fastener,Hydraulics,29,3652,27,44
+A0069,Brake Assembly,Electronics,409,1670,15,12
+A0070,Navigation Unit,Landing Gear,75,682,18,63
+A0071,Brake Assembly,Engine,308,1531,15,37
+A0072,Landing Gear Bolt,Fuel System,357,3190,26,5
+A0073,Avionics Sensor,Electronics,385,3018,30,64
+A0074,Wing Fastener,Fuel System,286,2704,22,57
+A0075,Engine Filter,Fuel System,344,1591,25,97
+A0076,Avionics Sensor,Engine,148,4546,26,73
+A0077,Turbine Blade,Avionics,91,1298,25,86
+A0078,Brake Assembly,Avionics,181,3945,15,57
+A0079,Electrical Harness,Hydraulics,309,3046,26,23
+A0080,Cockpit Display,Electronics,173,4747,11,73
+A0081,Electrical Harness,Avionics,91,1930,28,55
+A0082,Avionics Sensor,Fuel System,469,4506,30,68
+A0083,Compressor Blade,Fuel System,246,1551,12,56
+A0084,Hydraulic Actuator,Engine,376,1783,13,51
+A0085,Radar Module,Avionics,243,2245,12,57
+A0086,Cockpit Display,Engine,151,365,22,9
+A0087,Pressure Sensor,Avionics,23,2256,20,88
+A0088,Compressor Blade,Landing Gear,296,2433,25,19
+A0089,Avionics Sensor,Electronics,62,4473,19,18
+A0090,Electrical Harness,Engine,361,496,20,92
+A0091,Hydraulic Actuator,Engine,234,4083,30,85
+A0092,Hydraulic Actuator,Avionics,30,3206,10,54
+A0093,Cockpit Display,Fuel System,468,941,21,50
+A0094,Electrical Harness,Engine,71,790,15,95
+A0095,Pressure Sensor,Hydraulics,121,3550,14,95
+A0096,Wing Fastener,Hydraulics,265,3173,9,39
+A0097,Engine Filter,Avionics,122,1513,23,69
+A0098,Electrical Harness,Hydraulics,289,939,19,14
+A0099,Navigation Unit,Engine,43,4219,29,70
+A0100,Compressor Blade,Electronics,87,1598,20,56
+A0101,Radar Module,Fuel System,234,3895,17,95
+A0102,Landing Gear Bolt,Landing Gear,337,4423,13,26
+A0103,Hydraulic Actuator,Engine,64,417,6,27
+A0104,Brake Assembly,Landing Gear,38,1699,8,13
+A0105,Landing Gear Bolt,Electronics,329,1720,29,52
+A0106,Hydraulic Actuator,Landing Gear,442,1280,8,29
+A0107,Fuel Control Valve,Fuel System,184,4754,22,78
+A0108,Cockpit Display,Engine,420,1814,26,96
+A0109,Cockpit Display,Avionics,235,2194,17,31
+A0110,Radar Module,Fuel System,308,1216,22,100
+A0111,Engine Filter,Fuel System,205,1590,19,73
+A0112,Radar Module,Landing Gear,64,2295,27,59
+A0113,Hydraulic Pump,Electronics,480,2387,24,56
+A0114,Fuel Control Valve,Fuel System,407,3461,27,70
+A0115,Electrical Harness,Landing Gear,405,1033,13,39
+A0116,Hydraulic Actuator,Hydraulics,326,4620,22,66
+A0117,Radar Module,Landing Gear,315,4555,12,55
+A0118,Brake Assembly,Fuel System,416,2782,12,97
+A0119,Hydraulic Actuator,Electronics,380,853,24,58
+A0120,Radar Module,Landing Gear,387,1771,19,82
+A0121,Navigation Unit,Fuel System,411,4824,13,57
+A0122,Compressor Blade,Avionics,53,1620,15,37
+A0123,Turbine Blade,Avionics,337,3072,13,56
+A0124,Hydraulic Actuator,Fuel System,421,3865,12,22
+A0125,Electrical Harness,Fuel System,228,4913,9,25
+A0126,Pressure Sensor,Electronics,233,1501,27,89
+A0127,Wing Fastener,Electronics,177,781,9,36
+A0128,Cockpit Display,Engine,229,3861,16,44
+A0129,Wing Fastener,Fuel System,444,3248,11,7
+A0130,Radar Module,Avionics,24,668,16,39
+A0131,Electrical Harness,Landing Gear,69,4968,13,76
+A0132,Turbine Blade,Electronics,282,4281,11,7
+A0133,Wing Fastener,Avionics,422,4247,25,24
+A0134,Radar Module,Landing Gear,54,2538,27,7
+A0135,Turbine Blade,Fuel System,247,2231,29,91
+A0136,Hydraulic Pump,Hydraulics,371,3328,16,17
+A0137,Avionics Sensor,Fuel System,330,913,17,45
+A0138,Pressure Sensor,Engine,257,4299,19,89
+A0139,Hydraulic Actuator,Electronics,417,837,7,50
+A0140,Fuel Control Valve,Hydraulics,442,2942,24,75
+A0141,Turbine Blade,Fuel System,431,4510,9,89
+A0142,Pressure Sensor,Electronics,206,3092,22,29
+A0143,Fuel Control Valve,Hydraulics,126,4847,17,19
+A0144,Brake Assembly,Fuel System,477,764,17,77
+A0145,Electrical Harness,Engine,389,4445,17,36
+A0146,Landing Gear Bolt,Electronics,103,402,19,75
+A0147,Brake Assembly,Fuel System,82,939,27,49
+A0148,Brake Assembly,Hydraulics,467,2038,21,58
+A0149,Wing Fastener,Avionics,53,1631,15,90
+A0150,Navigation Unit,Fuel System,415,1999,29,10
+A0151,Turbine Blade,Electronics,80,1682,21,5
+A0152,Fuel Control Valve,Hydraulics,452,1696,12,90
+A0153,Brake Assembly,Fuel System,219,147,18,18
+A0154,Avionics Sensor,Fuel System,381,4861,5,44
+A0155,Electrical Harness,Electronics,82,629,7,33
+A0156,Electrical Harness,Electronics,73,2559,9,71
+A0157,Cockpit Display,Engine,320,717,26,84
+A0158,Pressure Sensor,Hydraulics,143,2798,29,5
+A0159,Radar Module,Fuel System,260,4488,28,81
+A0160,Avionics Sensor,Landing Gear,342,1061,27,72
+A0161,Radar Module,Fuel System,498,4777,14,27
+A0162,Avionics Sensor,Engine,474,4713,15,79
+A0163,Avionics Sensor,Landing Gear,487,2524,19,31
+A0164,Radar Module,Fuel System,342,3341,27,95
+A0165,Landing Gear Bolt,Engine,412,3327,25,25
+A0166,Compressor Blade,Engine,257,3877,5,77
+A0167,Avionics Sensor,Electronics,309,4878,11,80
+A0168,Electrical Harness,Hydraulics,203,2121,27,61
+A0169,Radar Module,Fuel System,306,3950,18,85
+A0170,Hydraulic Actuator,Engine,16,1583,29,49
+A0171,Engine Filter,Engine,281,1902,21,22
+A0172,Engine Filter,Engine,441,3988,15,60
+A0173,Turbine Blade,Engine,293,196,10,100
+A0174,Brake Assembly,Engine,481,3766,12,12
+A0175,Cockpit Display,Avionics,419,3378,25,84
+A0176,Turbine Blade,Electronics,283,4429,12,72
+A0177,Avionics Sensor,Avionics,252,4220,19,30
+A0178,Fuel Control Valve,Electronics,370,3048,11,59
+A0179,Hydraulic Pump,Electronics,176,3351,13,53
+A0180,Landing Gear Bolt,Engine,136,682,9,24
+A0181,Compressor Blade,Avionics,18,1287,7,78
+A0182,Avionics Sensor,Landing Gear,231,2638,17,29
+A0183,Fuel Control Valve,Fuel System,152,3925,6,89
+A0184,Radar Module,Electronics,394,1832,16,89
+A0185,Landing Gear Bolt,Fuel System,140,190,6,27
+A0186,Fuel Control Valve,Avionics,293,725,28,87
+A0187,Wing Fastener,Engine,426,654,9,58
+A0188,Cockpit Display,Hydraulics,498,900,9,15
+A0189,Avionics Sensor,Avionics,196,736,22,5
+A0190,Compressor Blade,Avionics,477,1522,17,59
+A0191,Landing Gear Bolt,Landing Gear,486,4498,8,39
+A0192,Fuel Control Valve,Engine,341,4707,14,59
+A0193,Electrical Harness,Electronics,459,1081,8,35
+A0194,Navigation Unit,Fuel System,420,3909,18,76
+A0195,Wing Fastener,Hydraulics,170,2797,12,64
+A0196,Hydraulic Actuator,Avionics,68,836,15,30
+A0197,Pressure Sensor,Avionics,328,1969,17,40
+A0198,Brake Assembly,Hydraulics,219,2472,24,26
+A0199,Hydraulic Actuator,Engine,205,2169,12,42
+A0200,Cockpit Display,Fuel System,344,2198,6,44

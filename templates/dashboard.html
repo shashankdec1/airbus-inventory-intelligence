@@ -1,0 +1,178 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="hero">
+
+    <div class="hero-content">
+
+        <h1>Inventory Operations Dashboard</h1>
+
+        <p>
+            Monitor inventory performance, stock levels,
+            inventory valuation and replenishment readiness.
+        </p>
+
+    </div>
+
+</div>
+
+<div class="row g-4 mb-4">
+
+    <div class="col-md-3">
+
+        <div class="metric-card">
+
+            <span class="metric-label">
+                Total Parts
+            </span>
+
+            <h2>{{ total_parts }}</h2>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-3">
+
+        <div class="metric-card">
+
+            <span class="metric-label">
+                Inventory Value
+            </span>
+
+            <h2>€ {{ inventory_value }}</h2>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-3">
+
+        <div class="metric-card">
+
+            <span class="metric-label">
+                Low Stock Items
+            </span>
+
+            <h2>{{ low_stock }}</h2>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-3">
+
+        <div class="metric-card">
+
+            <span class="metric-label">
+                Average Stock
+            </span>
+
+            <h2>{{ avg_stock }}</h2>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div class="row">
+
+    <div class="col-lg-8">
+
+        <div class="content-card">
+
+            <h4>Executive Summary</h4>
+
+            <hr>
+
+            <p>
+                The current inventory database contains
+                <strong>{{ total_parts }}</strong>
+                active inventory items.
+            </p>
+
+            <p>
+                Total inventory value is currently
+                <strong>€ {{ inventory_value }}</strong>.
+            </p>
+
+            <p>
+                There are
+                <strong>{{ low_stock }}</strong>
+                items requiring attention due to low stock levels.
+            </p>
+
+            <p>
+                Average stock quantity across all inventory items is
+                <strong>{{ avg_stock }}</strong>.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="col-lg-4">
+
+        <div class="content-card">
+
+            <h4>System Status</h4>
+
+            <hr>
+
+            <div class="status-item">
+
+                <span>
+                    Inventory Database
+                </span>
+
+                <span class="badge bg-success">
+                    Active
+                </span>
+
+            </div>
+
+            <div class="status-item">
+
+                <span>
+                    Forecast Engine
+                </span>
+
+                <span class="badge bg-success">
+                    Running
+                </span>
+
+            </div>
+
+            <div class="status-item">
+
+                <span>
+                    ABC Analysis
+                </span>
+
+                <span class="badge bg-success">
+                    Ready
+                </span>
+
+            </div>
+
+            <div class="status-item">
+
+                <span>
+                    Reorder Monitoring
+                </span>
+
+                <span class="badge bg-success">
+                    Active
+                </span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+{% endblock %}

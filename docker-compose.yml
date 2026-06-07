@@ -1,0 +1,15 @@
+services:
+
+  airbus-inventory:
+
+    build: .
+
+    container_name: airbus_inventory_app
+
+    ports:
+      - "5001:5001"
+
+    volumes:
+      - .:/app
+
+    restart: unless-stopped

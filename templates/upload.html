@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="upload-card">
+
+    <h2>Upload Inventory Dataset</h2>
+
+    <p>
+        Upload Airbus inventory data in CSV format
+    </p>
+
+    <form action="/upload"
+          method="POST"
+          enctype="multipart/form-data">
+
+        <input type="file"
+               name="file"
+               class="form-control mb-3"
+               required>
+
+        <button type="submit"
+                class="btn btn-airbus">
+
+            Upload Dataset
+
+        </button>
+
+    </form>
+
+</div>
+
+{% endblock %}

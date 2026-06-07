@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="content-card">
+
+    <h2>Reorder Point Analysis</h2>
+
+    <table class="table">
+
+        <thead>
+
+            <tr>
+                <th>Part Number</th>
+                <th>Part Name</th>
+                <th>Current Stock</th>
+                <th>Reorder Point</th>
+                <th>Status</th>
+            </tr>
+
+        </thead>
+
+        <tbody>
+
+        {% for item in reorder_data %}
+
+            <tr>
+
+                <td>{{ item.part_number }}</td>
+                <td>{{ item.part_name }}</td>
+                <td>{{ item.current_stock }}</td>
+                <td>{{ item.rop }}</td>
+
+                <td>
+
+                    {% if item.status == "REORDER" %}
+
+                    <span class="badge bg-danger">
+
+                        REORDER
+
+                    </span>
+
+                    {% else %}
+
+                    <span class="badge bg-success">
+
+                        SAFE
+
+                    </span>
+
+                    {% endif %}
+
+                </td>
+
+            </tr>
+
+        {% endfor %}
+
+        </tbody>
+
+    </table>
+
+</div>
+
+{% endblock %}
