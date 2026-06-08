@@ -1,5 +1,9 @@
 # Airbus Inventory Intelligence Dashboard
 
+GIT repo link
+https://github.com/shashankdec1/airbus-inventory-intelligence.git
+
+
 ## Overview
 
 The Airbus Inventory Intelligence Dashboard is a Flask-based web application designed to help organizations manage and analyze inventory data efficiently. The application allows users to upload inventory datasets, perform inventory classification, forecast future demand, calculate reorder points, and access inventory information through a REST API.
